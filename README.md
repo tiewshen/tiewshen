@@ -1,4 +1,9 @@
-### Hi there 👋
+### Hi there 👋, I'm Tiew Chuan Shen
+Currently taking software engineering course in UTM,a beginner coding.
+I am studying Bachelor of computer science (data engineering).
+Hobby-any sports🏃🤸🧘 
+
+
 
 <!--
 **tiewshen/tiewshen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
