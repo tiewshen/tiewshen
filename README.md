@@ -1,6 +1,7 @@
 ### Hi there 👋, I'm Tiew Chuan Shen
-Currently taking software engineering course in UTM,a beginner coding.
+Currently taking software engineering course in UTM, a beginner coding.
 I am studying Bachelor of computer science (data engineering).
+
 Hobby-any sports🏃🤸🧘 
 
 
